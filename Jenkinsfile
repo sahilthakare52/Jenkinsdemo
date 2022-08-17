@@ -11,4 +11,7 @@ stages {
   
   stage(release){
   }
+  
+  stage(monitoring){
+  }
 }
