@@ -1,6 +1,7 @@
 stages {
 
   stage(build) {
+  echo "this is new"
   }
   
   stage(deploy) {
